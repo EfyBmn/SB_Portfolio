@@ -1,0 +1,3 @@
+[1110/233624.145:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1110/233624.171:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Ayureal\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\1982c577-b12f-4f36-8eb9-14ae4bef352a: The system cannot find the path specified. (0x3)
+[1110/233624.172:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Ayureal\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\acfc57d7-3368-48b5-a605-0a334b97f73a: The system cannot find the path specified. (0x3)
